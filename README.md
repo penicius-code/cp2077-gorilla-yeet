@@ -5,7 +5,9 @@ Version 0.5.10 | Built and tested on game version 2.31; see Status for what was 
 
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED. No game files are included.
 
-Published on Nexus Mods as "Ragdoll Physics for Gorilla Arms Cyberware" (version 0.5.2 there): <https://www.nexusmods.com/cyberpunk2077/mods/29014>
+Published on Nexus Mods as "Ragdoll Physics for Gorilla Arms Cyberware" (version 0.5.10 there): <https://www.nexusmods.com/cyberpunk2077/mods/29014>
+
+![An enemy is grabbed and thrown with Gorilla Arms and flies off as a ragdoll, followed by an explosion](docs/media/yeet.gif)
 
 ## The problem
 
