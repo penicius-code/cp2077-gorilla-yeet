@@ -3,6 +3,8 @@
 Gorilla Arms punches launch the target as a ragdoll along your aim, for Cyberpunk 2077. Single-player only.
 Version 0.5.10 | Built and tested on game version 2.31; see Status for what was tested | Status: 0.5.2 released and in use, 0.5.9 and 0.5.10 not yet play-tested
 
+**Download:** [latest release](https://github.com/penicius-code/cp2077-gorilla-yeet/releases/latest) (zip; install steps below), or [Nexus Mods](https://www.nexusmods.com/cyberpunk2077/mods/29014)
+
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED. No game files are included.
 
 Published on Nexus Mods as "Ragdoll Physics for Gorilla Arms Cyberware" (version 0.5.10 there): <https://www.nexusmods.com/cyberpunk2077/mods/29014>
@@ -47,7 +49,7 @@ Requirements are not bundled. Install them first from their own pages. The redsc
 ## Install
 
 1. Install the requirements above.
-2. Copy the contents of `package/` into the game folder, so that `bin\x64\plugins\cyber_engine_tweaks\mods\gorillayeet\init.lua` and `r6\scripts\PushPullNonLethal\PushPullNonLethal.reds` exist.
+2. Download the zip from the [latest release](https://github.com/penicius-code/cp2077-gorilla-yeet/releases/latest) (the same files as `package/` in this repository) and extract it into the game folder, so that `bin\x64\plugins\cyber_engine_tweaks\mods\gorillayeet\init.lua` and `r6\scripts\PushPullNonLethal\PushPullNonLethal.reds` exist.
 3. Start the game, equip Gorilla Arms and land a heavy punch. Open the CET overlay to find the "Gorilla Yeet" window.
 
 Upgrading: copy over the previous version. `config.json` is kept.
